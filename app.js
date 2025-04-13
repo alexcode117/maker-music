@@ -28,7 +28,7 @@ function setupPadEventListeners(pads, sounds, visual, colors) {
 
 function playSound(sound) {
     // Reset music
-    sound.currentTime = 0;
+    //sound.currentTime = 0;
     // Play music for taping
     sound.play();
 }

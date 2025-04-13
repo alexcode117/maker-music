@@ -5,7 +5,7 @@
 }
 
 body {
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Poppins", sans-serif;
 }
 
 .app {
@@ -95,7 +95,7 @@ header p {
 @keyframes jump1{
     0%{
         bottom: 0%;
-        left: 30%;
+        left: 17%;
     }
     50%{
         bottom: 50%;
